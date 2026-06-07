@@ -1,5 +1,5 @@
 Just paste the code block into the Ubuntu terminal and Open Web.UI A.I. Webserver will be installed.
-At this point go to https://http://127.0.0.1:8001/
+At this point go to http://127.0.0.1:8001/
 and you will create your Open Web.UI account, and thats it...   :)
 
 The command to start the server from the terminal after the insall is, 
